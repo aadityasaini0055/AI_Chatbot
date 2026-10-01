@@ -1,0 +1,3 @@
+streamlit
+os
+load_dotenv
