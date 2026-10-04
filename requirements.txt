@@ -1,3 +1,0 @@
-streamlit
-load_dotenv
-Groq
